@@ -11,6 +11,7 @@ En este portfolio presento proyectos desarrollados con Python, SQL, Power BI y M
 
 **Python · SQL · Power BI · Pandas · Scikit-learn · PostgreSQL · React Native · TypeScript**
 
+
 ## 🚀 Proyectos destacados
 
 ### 🎾 Ranking Amateur de Tenis — Sports Tech
