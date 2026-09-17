@@ -1,6 +1,6 @@
 # Alejandro Barcala
 
-## **Data Science · Business · Real-world impact**
+## 🌍 Data Science · Business · Real-world impact
 
 Máster en Ciencia de Datos por Tilburg University y Licenciado en Negocios Internacionales por la Universidad Católica del Uruguay. Me apasiona usar datos para generar soluciones reales en educación, deporte y negocios con un impacto social.
 
@@ -18,7 +18,7 @@ En este portfolio presento proyectos desarrollados con Python, SQL, Power BI y M
 ### 🎾 Ranking Amateur de Tenis — Sports Tech & Digital Infrastructure
 **React Native · TypeScript · Expo · Supabase · PostgreSQL · SQL**
 
-Plataforma en desarrollo para ranking y análisis del tenis amateur uruguayo.
+App de iOS/PlayStore en desarrollo para ranking y análisis del tenis amateur uruguayo.
 
 
 ### 🏀 NBA All-Star — Machine Learning & Statistical Analysis
