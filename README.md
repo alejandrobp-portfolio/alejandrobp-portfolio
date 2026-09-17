@@ -1,6 +1,6 @@
 # Alejandro Barcala
 
-## 🌍 Data Science · Business · Real-world impact
+## Data Science · Business · Real-world impact 🌎
 
 Máster en Ciencia de Datos por Tilburg University y Licenciado en Negocios Internacionales por la Universidad Católica del Uruguay. Me apasiona usar datos para generar soluciones reales en educación, deporte y negocios con un impacto social.
 
