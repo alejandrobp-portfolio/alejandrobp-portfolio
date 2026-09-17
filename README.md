@@ -27,7 +27,7 @@ Tesis de Máster: minería del dataset, predicción y post-análisis estadístic
 ### 🏦 Banking Analytics — Data & Credit Risk Analysis
 **SQL · PostgreSQL · Python · Power BI**
 
-Análisis de clientes, segmentación y riesgo crediticio. 🚧 En desarrollo
+Limpieza de datos, análisis de clientes, segmentación y riesgo crediticio. 🚧 En desarrollo
 
 ### 📊 Power Business Intelligence (Power BI)
 **Power BI · Python · Pandas · DAX**
