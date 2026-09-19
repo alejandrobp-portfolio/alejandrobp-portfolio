@@ -30,8 +30,8 @@ Dashboards, KPIs, análisis geográfico y pipelines de datos con Python (pandas)
 
 Tesis de Máster: minería del dataset, predicción y post-análisis estadístico. Pipeline hecho con excel y Python (pandas, scikit learn y matplot lib).
 
-### 🎾 Ranking Amateur de Tenis — Soft Development & Data Science
-**React Native · TypeScript · Supabase · PostgreSQL**
+### 🎾 Ranking Amateur de Tenis — Data Science & Software Development
+** React Native · TypeScript · Supabase · PostgreSQL**
 
 Aplicación iOS/PlayStore de ranking y análisis del tenis amateur uruguayo.
 
