@@ -14,22 +14,24 @@ En este portfolio presento proyectos desarrollados con Python, SQL, Power BI y M
 
 ## 🚀 Proyectos destacados
 
+
+### 🏦 Banking Analytics — Data & Credit Risk Analysis
+**SQL · PostgreSQL · Python · Power BI**
+
+Limpieza de datos, análisis de clientes, segmentación y riesgo crediticio. Pipeline hecho con posgreSQL y SQL, Python (pandas) y Power BI.para visualizacion.
+
+### 📊 Power Business Intelligence (Power BI)
+**Power BI · Python · Pandas · DAX**
+
+Dashboards, KPIs, análisis geográfico y pipelines de datos con Python (pandas) y Power BI como output final.
+
+### 🏀 NBA All-Star — Machine Learning (Python)
+**Python · Scikit-learn · Grid Search · Estadística**
+
+Tesis de Máster: minería del dataset, predicción y post-análisis estadístico. Pipeline hecho con excel y Python (pandas, scikit learn y matplot lib).
+
 ### 🎾 Ranking Amateur de Tenis — Sports Tech & Soft Dev
 **React Native · TypeScript · Supabase · PostgreSQL**
 
 Aplicación iOS/PlayStore de ranking y análisis del tenis amateur uruguayo.
 
-### 🏀 NBA All-Star — Machine Learning (Python)
-**Python · Scikit-learn · Grid Search · Estadística**
-
-Tesis de Máster: minería del dataset, predicción y post-análisis estadístico.
-
-### 🏦 Banking Analytics — Data & Credit Risk Analysis
-**SQL · PostgreSQL · Python · Power BI**
-
-Limpieza de datos, análisis de clientes, segmentación y riesgo crediticio. 🚧 En desarrollo
-
-### 📊 Power Business Intelligence (Power BI)
-**Power BI · Python · Pandas · DAX**
-
-Dashboards, KPIs, análisis geográfico y pipelines de datos.
