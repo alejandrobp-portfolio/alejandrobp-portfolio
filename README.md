@@ -9,7 +9,7 @@ En este portfolio presento proyectos desarrollados con Python, SQL, Supabase, Po
 
 ## 🛠️ Tecnologías/Softwares
 
-**Python · SQL · Power BI · Pandas · Scikit-learn · PostgreSQL · React Native · TypeScript · Excel**
+**Python · SQL · Power BI · Pandas · Scikit-learn · Tableau · PostgreSQL · React Native · TypeScript · Excel**
 
 
 ## 🚀 Proyectos destacados
