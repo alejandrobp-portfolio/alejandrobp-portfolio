@@ -1,8 +1,8 @@
 # Alejandro Barcala
 
-## Data Science · Business Intelligence · Real-world impact 🌎
+## Data Science · Business Intelligence · Soft Dev 
 
-Máster en Ciencia de Datos por Tilburg University y Licenciado en Negocios Internacionales por la Universidad Católica del Uruguay. Me apasiona usar datos para generar soluciones reales en educación, el mundo de los negocios con un impacto social, y deporte.
+Máster en Ciencia de Datos por Tilburg University y Licenciado en Negocios Internacionales por la Universidad Católica del Uruguay. Me apasiona usar datos para generar soluciones reales en educación, el mundo de los negocios con un impacto social, y deporte. 
 
 En este portfolio presento proyectos desarrollados con Python, SQL, Supabase, Power BI y Machine Learning, mayoritariamente integrando distintas herramientas dentro de un mismo pipeline de trabajo: desde la minería, limpieza y transformación de datos hasta su sintonización, modelado y visualización.
 
