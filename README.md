@@ -7,7 +7,7 @@
 En este portfolio presento proyectos desarrollados con **Python, SQL, Supabase, Power BI y Machine Learning, mayoritariamente integrando distintas herramientas** dentro de un mismo pipeline de trabajo: desde la minería, limpieza y transformación de datos hasta su sintonización, modelado y visualización. 🙌
 
 
-## 🛠️ Podrás encontrar prácticas en:
+## Podrás encontrar prácticas en:
 
 **Python · SQL · Power BI · Pandas · Scikit-learn · Tableau · PostgreSQL · React Native · TypeScript · Excel**
 
