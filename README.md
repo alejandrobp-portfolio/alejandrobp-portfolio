@@ -12,7 +12,7 @@ En este portfolio presento proyectos desarrollados con Python, SQL, Supabase, Po
 **Python · SQL · Power BI · Pandas · Scikit-learn · Tableau · PostgreSQL · React Native · TypeScript · Excel**
 
 
-## 🚀 Aquí debajo mis proyectos desarrollados personalmente
+## 🚀 Aquí debajo mis proyectos personales
 
 
 ### 🏦 Banking Analytics — Data Analysis & Credit Risk Analysis
