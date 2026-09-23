@@ -2,9 +2,9 @@
 
 ## Data Science · Business Intelligence · Soft Dev 
 
-Máster en Ciencia de Datos por Tilburg University y Licenciado en Negocios Internacionales por la Universidad Católica del Uruguay. Me apasiona usar datos para generar soluciones reales en educación, el mundo de los negocios con un impacto social, y deporte.  
+**Máster en Ciencia de Datos por Tilburg University y Licenciado en Negocios Internacionales por la Universidad Católica del Uruguay.** Me apasiona usar datos para **generar soluciones** reales en educación, el mundo de los negocios con un impacto social, y deporte.  
 
-En este portfolio presento proyectos desarrollados con Python, SQL, Supabase, Power BI y Machine Learning, mayoritariamente integrando distintas herramientas dentro de un mismo pipeline de trabajo: desde la minería, limpieza y transformación de datos hasta su sintonización, modelado y visualización. 🙌
+En este portfolio presento proyectos desarrollados con **Python, SQL, Supabase, Power BI y Machine Learning, mayoritariamente integrando distintas herramientas** dentro de un mismo pipeline de trabajo: desde la minería, limpieza y transformación de datos hasta su sintonización, modelado y visualización. 🙌
 
 
 ## 🛠️ Podrás encontrar prácticas en:
@@ -31,7 +31,7 @@ Dashboards, KPIs, análisis geográfico y pipelines de datos con Python (pandas)
 Tesis de Máster: minería del dataset, predicción y post-análisis estadístico. Pipeline hecho con excel y Python (pandas, scikit learn y matplot lib).
 
 ### 🎾 Ranking Amateur de Tenis — Data Science & Software Development
-** React Native · TypeScript · Supabase · PostgreSQL**
+**React Native · TypeScript · Supabase · PostgreSQL**
 
 Aplicación iOS/PlayStore de ranking y análisis del tenis amateur uruguayo.
 
