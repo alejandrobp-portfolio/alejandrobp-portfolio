@@ -1,4 +1,4 @@
-# Alejandro Barcala
+# Alejandro Barcala 🇺🇾
 
 ## Data Science · Business Intelligence · Soft Dev 
 
@@ -7,12 +7,12 @@ Máster en Ciencia de Datos por Tilburg University y Licenciado en Negocios Inte
 En este portfolio presento proyectos desarrollados con Python, SQL, Supabase, Power BI y Machine Learning, mayoritariamente integrando distintas herramientas dentro de un mismo pipeline de trabajo: desde la minería, limpieza y transformación de datos hasta su sintonización, modelado y visualización.
 
 
-## 🛠️ Tecnologías/Softwares
+## 🛠️ Podrás encontrar prácticas en:
 
 **Python · SQL · Power BI · Pandas · Scikit-learn · Tableau · PostgreSQL · React Native · TypeScript · Excel**
 
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos desarrollados personalmente
 
 
 ### 🏦 Banking Analytics — Data Analysis & Credit Risk Analysis
