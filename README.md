@@ -1,10 +1,10 @@
-# Alejandro Barcala 👨‍💻
+# Alejandro Barcala 🧑‍💻 MSc in Data Science
 
 ## Data Science · Business Intelligence · Soft Dev 
 
 Máster en Ciencia de Datos por Tilburg University y Licenciado en Negocios Internacionales por la Universidad Católica del Uruguay. Me apasiona usar datos para generar soluciones reales en educación, el mundo de los negocios con un impacto social, y deporte.  
 
-En este portfolio presento proyectos desarrollados con Python, SQL, Supabase, Power BI y Machine Learning, mayoritariamente integrando distintas herramientas dentro de un mismo pipeline de trabajo: desde la minería, limpieza y transformación de datos hasta su sintonización, modelado y visualización. 🇺🇾
+En este portfolio presento proyectos desarrollados con Python, SQL, Supabase, Power BI y Machine Learning, mayoritariamente integrando distintas herramientas dentro de un mismo pipeline de trabajo: desde la minería, limpieza y transformación de datos hasta su sintonización, modelado y visualización. 🙌
 
 
 ## 🛠️ Podrás encontrar prácticas en:
@@ -12,7 +12,7 @@ En este portfolio presento proyectos desarrollados con Python, SQL, Supabase, Po
 **Python · SQL · Power BI · Pandas · Scikit-learn · Tableau · PostgreSQL · React Native · TypeScript · Excel**
 
 
-## 🚀 Proyectos desarrollados personalmente
+## 🚀 Aquí debajo mis proyectos desarrollados personalmente
 
 
 ### 🏦 Banking Analytics — Data Analysis & Credit Risk Analysis
